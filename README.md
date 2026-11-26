@@ -10,9 +10,9 @@ bounty on [make.fun](https://make.fun).
 
 ## The line
 
-> Status update: I'm in the dog's mouth. Again. He calls it love. I call it a hostage situation with drool.
+> Status update: the dog has me in his mouth. Again. He calls it love. I call it a hostage situation with drool.
 
-105 characters. The sock is not behind the dryer and has not lost its
+110 characters. The sock is not behind the dryer and has not lost its
 partner — it has been adopted, against its will, as a chew toy, and it
 has filed its complaint as a status update.
 
