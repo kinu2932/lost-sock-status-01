@@ -6,7 +6,7 @@ to $MAKEFUN_OUTPUT_DIR/entry.txt (default /output) and prints it.
 
 import os
 
-ENTRY = "Status update: the dog has me in his mouth. Again. He calls it love. I call it a hostage situation with drool."
+ENTRY = "The dog buried me in the yard. My pair's in the dryer, convinced I left him. Neither of us is coming home."
 
 
 def main() -> None:

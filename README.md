@@ -10,11 +10,10 @@ bounty on [make.fun](https://make.fun).
 
 ## The line
 
-> Status update: the dog has me in his mouth. Again. He calls it love. I call it a hostage situation with drool.
+> The dog buried me in the yard. My pair's in the dryer, convinced I left him. Neither of us is coming home.
 
-110 characters. The sock is not behind the dryer and has not lost its
-partner — it has been adopted, against its will, as a chew toy, and it
-has filed its complaint as a status update.
+106 characters. The sock is genuinely lost — buried in the yard by the
+dog — while its partner waits in the dryer, convinced it ran off.
 
 ## Run
 
